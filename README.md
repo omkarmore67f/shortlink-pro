@@ -148,7 +148,17 @@ npm run dev
 ---
 ## 🚀 Live Demo
 
-🔗 Live Application: https://shortlink-pro.onrender.com/
+🔗Frontend
+
+https://shortlink-pro-git-main-omkar-s-projects16.vercel.app/
+
+Backend API
+
+https://shortlink-pro.onrender.com/
+
+Health Check
+
+https://shortlink-pro.onrender.com/health
 
 ## 🔑 Environment Variables
 
