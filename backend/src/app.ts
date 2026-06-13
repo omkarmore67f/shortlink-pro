@@ -61,7 +61,7 @@ app.use(
 
 // Global rate limiting on all API routes
 app.use('/api', apiLimiter);
-
+app.use('/', redirectRoutes);
 // Health check endpoint (useful for Docker/Render/Railway health probes)
 app.get('/health', (req, res) => {
   res.status(200).json({ success: true, message: 'ShortLink Pro API is healthy.' });
