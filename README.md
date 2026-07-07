@@ -14,19 +14,19 @@ A full-stack URL Shortener built using the MERN Stack. Users can create short UR
 
 ### 🏠 Landing Page
 
-![Landing Page](images/1.png)
+![Landing Page](images/1.png.png)
 
 ### 📊 Dashboard Overview
 
-![Dashboard](images/2.png)
+![Dashboard](images/2.png.png)
 
 ### 🔗 My Links
 
-![My Links](images/3.png)
+![My Links](images/3.png.png)
 
 ### 📈 Analytics Dashboard
 
-![Analytics](images/4.png)
+![Analytics](images/4.png.png)
 
 ## ✨ Features
 
