@@ -12,18 +12,21 @@ A full-stack URL Shortener built using the MERN Stack. Users can create short UR
 
 ## 📸 Screenshots
 
-### Dashboard
+### 🏠 Landing Page
 
+![Landing Page](images/1.png)
 
-### Create Short Link
+### 📊 Dashboard Overview
 
-![Create Link](./screenshots/create-link.png)
+![Dashboard](images/2.png)
 
-### Analytics Dashboard
+### 🔗 My Links
 
-![Analytics](./screenshots/analytics.png)
+![My Links](images/3.png)
 
----
+### 📈 Analytics Dashboard
+
+![Analytics](images/4.png)
 
 ## ✨ Features
 
