@@ -4,9 +4,9 @@ A full-stack URL Shortener built using the MERN Stack. Users can create short UR
 
 ## 🚀 Live Demo
 
-Frontend: https://your-frontend-url
+(https://shortlink-pro-gamma.vercel.app/)
 
-Backend: https://your-backend-url
+
 
 ---
 
@@ -14,7 +14,6 @@ Backend: https://your-backend-url
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
 
 ### Create Short Link
 
